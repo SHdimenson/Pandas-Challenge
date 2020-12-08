@@ -1,9 +1,10 @@
 *** Heroes Of Pymoli ***
+------------------------------------
 
-Key Observations from generated dataframes in Pymoli Project:
+## Key Observations from generated dataframes in Pymoli Project :
 
-1. According to the GENDER DEMOGRAPHICS & PURCHASE ANALYSIS (by gender)  dataframe, the number of male players are very high at 84% of Total players and so are the purchases.
+1. According to the *GENDER DEMOGRAPHICS*  &  *PURCHASE ANALYSIS* (by gender)  dataframes, the number of Male players are very high at 84% of Total players and so are their purchases.
 
-2. From AGE DEMOGRAPHICS & PURCHASE ANALYSIS(by Age), we do see a trend where the player purchases are very high between the age group 20-24 and very less number of purchases in the age group 40+.
+2. From *AGE DEMOGRAPHICS*  &  *PURCHASE ANALYSIS* (by Age), we do see a trend where the player purchases are very high between the age group 20-24 and very less number of purchases in the age group 40+.
 
-3. 
+3.  Most Popular Item itself is Most Profitable item.
